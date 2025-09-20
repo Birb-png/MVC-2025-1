@@ -1,0 +1,25 @@
+======================================================================
+🚀 CROWDFUNDING PLATFORM - MVC ARCHITECTURE
+======================================================================
+📋 SYSTEM COMPONENTS:
+   app.py              - Controller Layer (Request handling)
+   📂 models/             - Model Layer (Data & Business Logic)
+       project_model.py   - Project & Reward management
+       user_model.py      - User authentication & data
+       pledge_model.py    - Pledge transactions & validation
+   📂 views/              - View Layer (HTML Templates)
+        base.html          - Base template
+       login.html         - Authentication page
+       projects_list.html - Project listing page
+      ├── projects_detail.html- Project details page
+      └── statistics.html    - Statistics dashboard
+   �� static/             - Static files (CSS, JS, Images)
+      └── css/style.css      - Custom stylesheet
+   📂 data/               - JSON data storage
+======================================================================
+🌐 SERVER: http://localhost:5000
+📧 DEMO CREDENTIALS:
+   �� Username: admin      |  Password: admin123
+   👤 Username: john_doe   | 🔐 Password: password123
+
+====================================================================== 
