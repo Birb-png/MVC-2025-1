@@ -1,0 +1,218 @@
+[
+  {
+    "id": "reward_1",
+    "project_id": "10001001",
+    "name": "Early Bird Special",
+    "description": "Get the product at discounted price",
+    "min_amount": 2500.0,
+    "remaining_quota": 153
+  },
+  {
+    "id": "reward_2",
+    "project_id": "10001001",
+    "name": "Standard Package",
+    "description": "Standard product with basic features",
+    "min_amount": 5000.0,
+    "remaining_quota": 125
+  },
+  {
+    "id": "reward_3",
+    "project_id": "10001001",
+    "name": "Premium Package",
+    "description": "Premium product with extra features and bonuses",
+    "min_amount": 10000.0,
+    "remaining_quota": 83
+  },
+  {
+    "id": "reward_4",
+    "project_id": "20002002",
+    "name": "Early Bird Special",
+    "description": "Get the product at discounted price",
+    "min_amount": 1250.0,
+    "remaining_quota": 200
+  },
+  {
+    "id": "reward_5",
+    "project_id": "20002002",
+    "name": "Standard Package",
+    "description": "Standard product with basic features",
+    "min_amount": 2500.0,
+    "remaining_quota": 243
+  },
+  {
+    "id": "reward_6",
+    "project_id": "20002002",
+    "name": "Premium Package",
+    "description": "Premium product with extra features and bonuses",
+    "min_amount": 5000.0,
+    "remaining_quota": 45
+  },
+  {
+    "id": "reward_7",
+    "project_id": "30003003",
+    "name": "Early Bird Special",
+    "description": "Get the product at discounted price",
+    "min_amount": 3750.0,
+    "remaining_quota": 164
+  },
+  {
+    "id": "reward_8",
+    "project_id": "30003003",
+    "name": "Standard Package",
+    "description": "Standard product with basic features",
+    "min_amount": 7500.0,
+    "remaining_quota": 150
+  },
+  {
+    "id": "reward_9",
+    "project_id": "30003003",
+    "name": "Premium Package",
+    "description": "Premium product with extra features and bonuses",
+    "min_amount": 15000.0,
+    "remaining_quota": 57
+  },
+  {
+    "id": "reward_10",
+    "project_id": "40004004",
+    "name": "Early Bird Special",
+    "description": "Get the product at discounted price",
+    "min_amount": 4000.0,
+    "remaining_quota": 192
+  },
+  {
+    "id": "reward_11",
+    "project_id": "40004004",
+    "name": "Standard Package",
+    "description": "Standard product with basic features",
+    "min_amount": 8000.0,
+    "remaining_quota": 202
+  },
+  {
+    "id": "reward_12",
+    "project_id": "40004004",
+    "name": "Premium Package",
+    "description": "Premium product with extra features and bonuses",
+    "min_amount": 16000.0,
+    "remaining_quota": 64
+  },
+  {
+    "id": "reward_13",
+    "project_id": "50005005",
+    "name": "Early Bird Special",
+    "description": "Get the product at discounted price",
+    "min_amount": 2000.0,
+    "remaining_quota": 113
+  },
+  {
+    "id": "reward_14",
+    "project_id": "50005005",
+    "name": "Standard Package",
+    "description": "Standard product with basic features",
+    "min_amount": 4000.0,
+    "remaining_quota": 195
+  },
+  {
+    "id": "reward_15",
+    "project_id": "50005005",
+    "name": "Premium Package",
+    "description": "Premium product with extra features and bonuses",
+    "min_amount": 8000.0,
+    "remaining_quota": 45
+  },
+  {
+    "id": "reward_16",
+    "project_id": "60006006",
+    "name": "Early Bird Special",
+    "description": "Get the product at discounted price",
+    "min_amount": 1500.0,
+    "remaining_quota": 68
+  },
+  {
+    "id": "reward_17",
+    "project_id": "60006006",
+    "name": "Standard Package",
+    "description": "Standard product with basic features",
+    "min_amount": 3000.0,
+    "remaining_quota": 206
+  },
+  {
+    "id": "reward_18",
+    "project_id": "60006006",
+    "name": "Premium Package",
+    "description": "Premium product with extra features and bonuses",
+    "min_amount": 6000.0,
+    "remaining_quota": 85
+  },
+  {
+    "id": "reward_19",
+    "project_id": "70007007",
+    "name": "Early Bird Special",
+    "description": "Get the product at discounted price",
+    "min_amount": 750.0,
+    "remaining_quota": 136
+  },
+  {
+    "id": "reward_20",
+    "project_id": "70007007",
+    "name": "Standard Package",
+    "description": "Standard product with basic features",
+    "min_amount": 1500.0,
+    "remaining_quota": 155
+  },
+  {
+    "id": "reward_21",
+    "project_id": "70007007",
+    "name": "Premium Package",
+    "description": "Premium product with extra features and bonuses",
+    "min_amount": 3000.0,
+    "remaining_quota": 70
+  },
+  {
+    "id": "reward_22",
+    "project_id": "80008008",
+    "name": "Early Bird Special",
+    "description": "Get the product at discounted price",
+    "min_amount": 6000.0,
+    "remaining_quota": 83
+  },
+  {
+    "id": "reward_23",
+    "project_id": "80008008",
+    "name": "Standard Package",
+    "description": "Standard product with basic features",
+    "min_amount": 12000.0,
+    "remaining_quota": 248
+  },
+  {
+    "id": "reward_24",
+    "project_id": "80008008",
+    "name": "Premium Package",
+    "description": "Premium product with extra features and bonuses",
+    "min_amount": 24000.0,
+    "remaining_quota": 38
+  },
+  {
+    "id": "reward_25",
+    "project_id": "90009009",
+    "name": "Early Bird Special",
+    "description": "Get the product at discounted price",
+    "min_amount": 2750.0,
+    "remaining_quota": 169
+  },
+  {
+    "id": "reward_26",
+    "project_id": "90009009",
+    "name": "Standard Package",
+    "description": "Standard product with basic features",
+    "min_amount": 5500.0,
+    "remaining_quota": 192
+  },
+  {
+    "id": "reward_27",
+    "project_id": "90009009",
+    "name": "Premium Package",
+    "description": "Premium product with extra features and bonuses",
+    "min_amount": 11000.0,
+    "remaining_quota": 52
+  }
+]

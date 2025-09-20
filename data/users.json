@@ -1,0 +1,98 @@
+[
+  {
+    "id": "user_0001",
+    "username": "admin",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "email": "admin@crowdfunding.com",
+    "full_name": "System Administrator",
+    "created_date": "2024-01-15 10:00:00"
+  },
+  {
+    "id": "user_0002",
+    "username": "john_doe",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "email": "john.doe@email.com",
+    "full_name": "John Doe",
+    "created_date": "2024-02-10 14:30:00"
+  },
+  {
+    "id": "user_0003",
+    "username": "jane_smith",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "email": "jane.smith@email.com",
+    "full_name": "Jane Smith",
+    "created_date": "2024-02-15 09:15:00"
+  },
+  {
+    "id": "user_0004",
+    "username": "mike_johnson",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "email": "mike.johnson@email.com",
+    "full_name": "Mike Johnson",
+    "created_date": "2024-03-01 11:45:00"
+  },
+  {
+    "id": "user_0005",
+    "username": "sarah_wilson",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "email": "sarah.wilson@email.com",
+    "full_name": "Sarah Wilson",
+    "created_date": "2024-03-05 16:20:00"
+  },
+  {
+    "id": "user_0006",
+    "username": "alex_brown",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "email": "alex.brown@email.com",
+    "full_name": "Alex Brown",
+    "created_date": "2024-03-10 13:10:00"
+  },
+  {
+    "id": "user_0007",
+    "username": "lisa_davis",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "email": "lisa.davis@email.com",
+    "full_name": "Lisa Davis",
+    "created_date": "2024-03-15 10:30:00"
+  },
+  {
+    "id": "user_0008",
+    "username": "tom_miller",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "email": "tom.miller@email.com",
+    "full_name": "Tom Miller",
+    "created_date": "2024-03-20 15:45:00"
+  },
+  {
+    "id": "user_0009",
+    "username": "emma_garcia",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "email": "emma.garcia@email.com",
+    "full_name": "Emma Garcia",
+    "created_date": "2024-03-25 12:00:00"
+  },
+  {
+    "id": "user_0010",
+    "username": "david_martinez",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "email": "david.martinez@email.com",
+    "full_name": "David Martinez",
+    "created_date": "2024-04-01 09:30:00"
+  },
+  {
+    "id": "user_0011",
+    "username": "anna_rodriguez",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "email": "anna.rodriguez@email.com",
+    "full_name": "Anna Rodriguez",
+    "created_date": "2024-04-05 14:15:00"
+  },
+  {
+    "id": "user_0012",
+    "username": "chris_lee",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "email": "chris.lee@email.com",
+    "full_name": "Chris Lee",
+    "created_date": "2024-04-10 11:20:00"
+  }
+]

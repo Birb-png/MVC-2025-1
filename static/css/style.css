@@ -1,0 +1,405 @@
+/* CSS for Grafana - like dark theme
+inspred by Grafana GUI
+Some Codes of frontend are from Hack to the max ss2 */
+:root {
+    --bg-primary: #0f1419;
+    --bg-secondary: #1f2937;
+    --bg-tertiary: #374151;
+    --text-primary: #ffffff;
+    --text-secondary: #e5e7eb;
+    --accent-primary: #3b82f6;
+    --accent-secondary: #10b981;
+    --accent-danger: #ef4444;
+    --border-color: #4b5563;
+}
+
+body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.navbar {
+    background-color: var(--bg-secondary) !important;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.card {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+.card-header {
+    background-color: var(--bg-tertiary);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.card-title, .card-text, .card-body, .card-footer {
+    color: var(--text-primary) !important;
+}
+
+.card-body * {
+    color: var(--text-primary) !important;
+}
+
+.card-header * {
+    color: var(--text-primary) !important;
+}
+
+.card-footer * {
+    color: var(--text-primary) !important;
+}
+
+.btn-primary {
+    background-color: var(--accent-primary);
+    border-color: var(--accent-primary);
+    color: white !important;
+}
+
+.btn-success {
+    background-color: var(--accent-secondary);
+    border-color: var(--accent-secondary);
+    color: white !important;
+}
+
+.btn-danger {
+    background-color: var(--accent-danger);
+    border-color: var(--accent-danger);
+    color: white !important;
+}
+
+.btn-outline-secondary {
+    color: var(--text-primary) !important;
+    border-color: var(--border-color);
+}
+
+.btn-outline-secondary:hover {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary) !important;
+}
+
+.form-control, .form-select {
+    background-color: var(--bg-tertiary);
+    border-color: var(--border-color);
+    color: var(--text-primary) !important;
+}
+
+.form-control:focus, .form-select:focus {
+    background-color: var(--bg-tertiary);
+    border-color: var(--accent-primary);
+    color: var(--text-primary) !important;
+    box-shadow: 0 0 0 0.25rem rgba(59, 130, 246, 0.25);
+}
+
+.form-label {
+    color: var(--text-primary) !important;
+}
+
+.form-text {
+    color: var(--text-secondary) !important;
+}
+
+.progress {
+    background-color: var(--bg-tertiary);
+}
+
+.progress-bar {
+    background-color: var(--accent-secondary);
+}
+
+.alert-success {
+    background-color: rgba(16, 185, 129, 0.1);
+    border-color: var(--accent-secondary);
+    color: var(--accent-secondary) !important;
+}
+
+.alert-danger {
+    background-color: rgba(239, 68, 68, 0.1);
+    border-color: var(--accent-danger);
+    color: var(--accent-danger) !important;
+}
+
+.alert-info {
+    background-color: rgba(59, 130, 246, 0.1);
+    border-color: var(--accent-primary);
+    color: var(--accent-primary) !important;
+}
+
+.stats-card {
+    background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-tertiary) 100%);
+    border-left: 4px solid var(--accent-primary);
+}
+
+.project-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.project-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+.navbar-brand {
+    font-weight: 600;
+    color: var(--accent-primary) !important;
+}
+
+.nav-link {
+    color: var(--text-secondary) !important;
+    transition: color 0.2s;
+}
+
+.nav-link:hover, .nav-link.active {
+    color: var(--accent-primary) !important;
+}
+
+.table-dark {
+    --bs-table-bg: var(--bg-secondary);
+    --bs-table-border-color: var(--border-color);
+}
+
+.table-dark th,
+.table-dark td {
+    color: var(--text-primary) !important;
+    border-color: var(--border-color);
+}
+
+/* Text color utilities - Override Bootstrap defaults */
+.text-primary {
+    color: var(--accent-primary) !important;
+}
+
+.text-success {
+    color: var(--accent-secondary) !important;
+}
+
+.text-danger {
+    color: var(--accent-danger) !important;
+}
+
+.text-warning {
+    color: #f59e0b !important;
+}
+
+.text-info {
+    color: var(--accent-primary) !important;
+}
+
+.text-muted {
+    color: #ffffff !important;
+}
+
+.text-white {
+    color: white !important;
+}
+
+/* Headings - only apply to headings without color classes */
+h1:not([class*="text-"]), 
+h2:not([class*="text-"]), 
+h3:not([class*="text-"]), 
+h4:not([class*="text-"]), 
+h5:not([class*="text-"]), 
+h6:not([class*="text-"]) {
+    color: var(--text-primary) !important;
+}
+
+/* Paragraphs and text elements - only apply to elements without color classes */
+p:not([class*="text-"]), 
+span:not([class*="text-"]), 
+div:not([class*="text-"]), 
+small:not([class*="text-"]), 
+strong:not([class*="text-"]) {
+    color: var(--text-primary) !important;
+}
+
+/* Links */
+a {
+    color: var(--accent-primary) !important;
+}
+
+a:hover {
+    color: #60a5fa !important;
+}
+
+/* Badges */
+.badge {
+    color: white !important;
+}
+
+.badge.bg-primary {
+    background-color: var(--accent-primary) !important;
+    color: white !important;
+}
+
+.badge.bg-success {
+    background-color: var(--accent-secondary) !important;
+    color: white !important;
+}
+
+.badge.bg-danger {
+    background-color: var(--accent-danger) !important;
+    color: white !important;
+}
+
+.badge.bg-warning {
+    background-color: #f59e0b !important;
+    color: white !important;
+}
+
+/* Dropdown menus */
+.dropdown-menu {
+    background-color: var(--bg-secondary) !important;
+    border-color: var(--border-color) !important;
+}
+
+.dropdown-item {
+    color: var(--text-primary) !important;
+}
+
+.dropdown-item:hover {
+    background-color: var(--bg-tertiary) !important;
+    color: var(--text-primary) !important;
+}
+
+/* Footer */
+footer {
+    background-color: var(--bg-secondary) !important;
+    color: var(--text-primary) !important;
+}
+
+footer * {
+    color: var(--text-primary) !important;
+}
+
+/* Input group text */
+.input-group-text {
+    background-color: var(--bg-tertiary) !important;
+    border-color: var(--border-color) !important;
+    color: var(--text-primary) !important;
+}
+
+/* Override Bootstrap's default text colors */
+.text-dark {
+    color: var(--text-primary) !important;
+}
+
+.text-body {
+    color: var(--text-primary) !important;
+}
+
+/* Custom classes */
+.custom-gray-white {
+    color: #ffffff !important;
+}
+
+.text-gradient-primary {
+    color: var(--accent-primary) !important;
+}
+
+/* Lead text - only if no color class */
+.lead:not([class*="text-"]) {
+    color: #ffffff !important;
+}
+
+/* Display text - only if no color class */
+.display-1:not([class*="text-"]), 
+.display-2:not([class*="text-"]), 
+.display-3:not([class*="text-"]), 
+.display-4:not([class*="text-"]), 
+.display-5:not([class*="text-"]) {
+    color: #ffffff !important;
+}
+
+/* List items - only if no color class */
+li:not([class*="text-"]) {
+    color: #ffffff !important;
+}
+
+/* Icons should maintain their color classes */
+.bi {
+    color: inherit !important;
+}
+
+/* Statistics specific */
+.stats-card {
+    color: #ffffff !important;
+}
+
+.stats-card * {
+    color: #ffffff !important;
+}
+
+/* Project cards */
+.project-card {
+    color: #ffffff !important;
+}
+
+.project-card * {
+    color: #ffffff !important;
+}
+
+/* Pulse on hover */
+.pulse-on-hover {
+    color: #ffffff !important;
+}
+
+.pulse-on-hover * {
+    color: #ffffff !important;
+}
+
+/* Health indicator specific */
+.health-score {
+    color: #ffffff !important;
+}
+
+/* Platform performance summary */
+.platform-summary {
+    color: #ffffff !important;
+}
+
+.platform-summary * {
+    color: #ffffff !important;
+}
+
+/* Specific overrides for elements that should keep their colors */
+.text-success {
+    color: #10b981 !important;
+}
+
+.text-danger {
+    color: #ef4444 !important;
+}
+
+.text-warning {
+    color: #f59e0b !important;
+}
+
+.text-info {
+    color: #3b82f6 !important;
+}
+
+.text-primary {
+    color: #3b82f6 !important;
+}
+
+/* Ensure color classes work properly */
+[class*="text-success"] {
+    color: #10b981 !important;
+}
+
+[class*="text-danger"] {
+    color: #ef4444 !important;
+}
+
+[class*="text-warning"] {
+    color: #f59e0b !important;
+}
+
+[class*="text-info"] {
+    color: #3b82f6 !important;
+}
+
+[class*="text-primary"] {
+    color: #3b82f6 !important;
+}

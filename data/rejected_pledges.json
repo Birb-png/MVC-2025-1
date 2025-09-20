@@ -1,0 +1,137 @@
+[
+  {
+    "user_id": "user_0009",
+    "project_id": "20002002",
+    "amount": 759.98,
+    "reward_id": "reward_8",
+    "rejection_date": "2025-09-19 20:21:31",
+    "rejection_reason": "Selected reward tier is sold out",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0001",
+    "project_id": "60006006",
+    "amount": 298.32,
+    "reward_id": null,
+    "rejection_date": "2025-09-16 11:23:31",
+    "rejection_reason": "System error: Invalid project ID",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0003",
+    "project_id": "20002002",
+    "amount": 702.5,
+    "reward_id": "reward_8",
+    "rejection_date": "2025-09-01 15:30:31",
+    "rejection_reason": "Selected reward tier is sold out",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0006",
+    "project_id": "30003003",
+    "amount": 931.28,
+    "reward_id": null,
+    "rejection_date": "2025-09-06 17:33:31",
+    "rejection_reason": "System error: Invalid project ID",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0007",
+    "project_id": "60006006",
+    "amount": 605.85,
+    "reward_id": "reward_2",
+    "rejection_date": "2025-08-16 06:14:31",
+    "rejection_reason": "Selected reward tier not found",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0004",
+    "project_id": "90009009",
+    "amount": 458.99,
+    "reward_id": "reward_8",
+    "rejection_date": "2025-08-19 10:41:31",
+    "rejection_reason": "Amount below minimum requirement for selected reward",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0006",
+    "project_id": "50005005",
+    "amount": 961.83,
+    "reward_id": null,
+    "rejection_date": "2025-09-11 13:52:31",
+    "rejection_reason": "Selected reward tier not found",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0001",
+    "project_id": "80008008",
+    "amount": 562.97,
+    "reward_id": "reward_10",
+    "rejection_date": "2025-08-09 17:21:31",
+    "rejection_reason": "Selected reward tier not found",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0009",
+    "project_id": "60006006",
+    "amount": 507.91,
+    "reward_id": "reward_9",
+    "rejection_date": "2025-08-14 13:08:31",
+    "rejection_reason": "System error: Invalid project ID",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0005",
+    "project_id": "90009009",
+    "amount": 362.82,
+    "reward_id": null,
+    "rejection_date": "2025-08-06 19:27:31",
+    "rejection_reason": "Project deadline has passed",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0009",
+    "project_id": "70007007",
+    "amount": 164.81,
+    "reward_id": null,
+    "rejection_date": "2025-08-26 09:44:31",
+    "rejection_reason": "Selected reward tier not found",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0009",
+    "project_id": "90009009",
+    "amount": 133.45,
+    "reward_id": null,
+    "rejection_date": "2025-08-26 18:34:31",
+    "rejection_reason": "Selected reward tier not found",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0011",
+    "project_id": "20002002",
+    "amount": 272.03,
+    "reward_id": "reward_1",
+    "rejection_date": "2025-08-19 07:25:31",
+    "rejection_reason": "Amount below minimum requirement for selected reward",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0001",
+    "project_id": "20002002",
+    "amount": 535.19,
+    "reward_id": "reward_2",
+    "rejection_date": "2025-08-07 02:35:31",
+    "rejection_reason": "System error: Invalid project ID",
+    "status": "rejected"
+  },
+  {
+    "user_id": "user_0011",
+    "project_id": "80008008",
+    "amount": 235.58,
+    "reward_id": null,
+    "rejection_date": "2025-09-14 03:00:31",
+    "rejection_reason": "Project deadline has passed",
+    "status": "rejected"
+  }
+]

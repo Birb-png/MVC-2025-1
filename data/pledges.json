@@ -1,0 +1,515 @@
+[
+  {
+    "id": "pledge_000001",
+    "user_id": "user_0002",
+    "project_id": "60006006",
+    "amount": 3071.72,
+    "reward_id": "reward_17",
+    "pledge_date": "2025-08-25 23:04:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000002",
+    "user_id": "user_0009",
+    "project_id": "30003003",
+    "amount": 10053.77,
+    "reward_id": "reward_8",
+    "pledge_date": "2025-08-14 06:41:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000003",
+    "user_id": "user_0005",
+    "project_id": "60006006",
+    "amount": 2471.28,
+    "reward_id": "reward_16",
+    "pledge_date": "2025-09-11 23:07:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000004",
+    "user_id": "user_0011",
+    "project_id": "50005005",
+    "amount": 8315.38,
+    "reward_id": "reward_15",
+    "pledge_date": "2025-08-08 06:24:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000005",
+    "user_id": "user_0003",
+    "project_id": "90009009",
+    "amount": 12481.34,
+    "reward_id": "reward_27",
+    "pledge_date": "2025-09-17 23:33:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000006",
+    "user_id": "user_0011",
+    "project_id": "80008008",
+    "amount": 398.7,
+    "reward_id": null,
+    "pledge_date": "2025-09-20 18:06:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000007",
+    "user_id": "user_0003",
+    "project_id": "60006006",
+    "amount": 4547.55,
+    "reward_id": "reward_17",
+    "pledge_date": "2025-08-20 11:10:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000008",
+    "user_id": "user_0006",
+    "project_id": "10001001",
+    "amount": 13460.21,
+    "reward_id": "reward_3",
+    "pledge_date": "2025-08-11 00:29:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000009",
+    "user_id": "user_0004",
+    "project_id": "10001001",
+    "amount": 4888.24,
+    "reward_id": null,
+    "pledge_date": "2025-09-02 02:42:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000010",
+    "user_id": "user_0001",
+    "project_id": "20002002",
+    "amount": 2369.39,
+    "reward_id": "reward_4",
+    "pledge_date": "2025-08-14 11:35:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000011",
+    "user_id": "user_0007",
+    "project_id": "40004004",
+    "amount": 1084.32,
+    "reward_id": null,
+    "pledge_date": "2025-08-21 23:54:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000012",
+    "user_id": "user_0008",
+    "project_id": "40004004",
+    "amount": 4671.69,
+    "reward_id": null,
+    "pledge_date": "2025-08-23 18:40:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000013",
+    "user_id": "user_0009",
+    "project_id": "20002002",
+    "amount": 3832.62,
+    "reward_id": null,
+    "pledge_date": "2025-09-16 15:08:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000014",
+    "user_id": "user_0005",
+    "project_id": "30003003",
+    "amount": 3113.43,
+    "reward_id": null,
+    "pledge_date": "2025-09-03 23:51:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000015",
+    "user_id": "user_0005",
+    "project_id": "50005005",
+    "amount": 3480.61,
+    "reward_id": null,
+    "pledge_date": "2025-08-09 21:35:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000016",
+    "user_id": "user_0003",
+    "project_id": "90009009",
+    "amount": 9709.42,
+    "reward_id": "reward_26",
+    "pledge_date": "2025-08-21 03:09:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000017",
+    "user_id": "user_0003",
+    "project_id": "80008008",
+    "amount": 11274.92,
+    "reward_id": "reward_22",
+    "pledge_date": "2025-08-09 13:43:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000018",
+    "user_id": "user_0010",
+    "project_id": "40004004",
+    "amount": 3551.92,
+    "reward_id": null,
+    "pledge_date": "2025-08-12 08:27:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000019",
+    "user_id": "user_0004",
+    "project_id": "20002002",
+    "amount": 823.4,
+    "reward_id": null,
+    "pledge_date": "2025-08-06 18:37:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000020",
+    "user_id": "user_0012",
+    "project_id": "90009009",
+    "amount": 15549.53,
+    "reward_id": "reward_27",
+    "pledge_date": "2025-09-08 11:59:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000021",
+    "user_id": "user_0004",
+    "project_id": "10001001",
+    "amount": 972.7,
+    "reward_id": null,
+    "pledge_date": "2025-09-05 14:45:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000022",
+    "user_id": "user_0001",
+    "project_id": "70007007",
+    "amount": 2524.28,
+    "reward_id": "reward_20",
+    "pledge_date": "2025-08-21 12:27:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000023",
+    "user_id": "user_0003",
+    "project_id": "30003003",
+    "amount": 27803.36,
+    "reward_id": "reward_9",
+    "pledge_date": "2025-08-20 02:31:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000024",
+    "user_id": "user_0006",
+    "project_id": "70007007",
+    "amount": 2099.59,
+    "reward_id": null,
+    "pledge_date": "2025-08-25 00:45:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000025",
+    "user_id": "user_0011",
+    "project_id": "10001001",
+    "amount": 2964.92,
+    "reward_id": null,
+    "pledge_date": "2025-08-29 06:46:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000026",
+    "user_id": "user_0011",
+    "project_id": "20002002",
+    "amount": 7433.62,
+    "reward_id": "reward_6",
+    "pledge_date": "2025-08-07 20:19:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000027",
+    "user_id": "user_0009",
+    "project_id": "80008008",
+    "amount": 506.58,
+    "reward_id": null,
+    "pledge_date": "2025-08-25 10:34:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000028",
+    "user_id": "user_0003",
+    "project_id": "80008008",
+    "amount": 6386.46,
+    "reward_id": "reward_22",
+    "pledge_date": "2025-09-16 16:02:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000029",
+    "user_id": "user_0001",
+    "project_id": "70007007",
+    "amount": 1484.53,
+    "reward_id": "reward_19",
+    "pledge_date": "2025-08-16 15:17:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000030",
+    "user_id": "user_0012",
+    "project_id": "40004004",
+    "amount": 2404.01,
+    "reward_id": null,
+    "pledge_date": "2025-08-11 05:13:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000031",
+    "user_id": "user_0006",
+    "project_id": "60006006",
+    "amount": 1007.84,
+    "reward_id": null,
+    "pledge_date": "2025-09-16 17:23:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000032",
+    "user_id": "user_0007",
+    "project_id": "60006006",
+    "amount": 8164.79,
+    "reward_id": "reward_18",
+    "pledge_date": "2025-09-11 14:25:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000033",
+    "user_id": "user_0004",
+    "project_id": "40004004",
+    "amount": 6284.26,
+    "reward_id": "reward_10",
+    "pledge_date": "2025-09-04 16:45:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000034",
+    "user_id": "user_0007",
+    "project_id": "80008008",
+    "amount": 16310.84,
+    "reward_id": "reward_23",
+    "pledge_date": "2025-08-25 07:38:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000035",
+    "user_id": "user_0004",
+    "project_id": "30003003",
+    "amount": 20065.97,
+    "reward_id": "reward_9",
+    "pledge_date": "2025-09-06 18:43:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000036",
+    "user_id": "user_0006",
+    "project_id": "80008008",
+    "amount": 1762.73,
+    "reward_id": null,
+    "pledge_date": "2025-09-13 12:32:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000037",
+    "user_id": "user_0002",
+    "project_id": "50005005",
+    "amount": 4341.54,
+    "reward_id": "reward_14",
+    "pledge_date": "2025-09-03 01:33:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000038",
+    "user_id": "user_0010",
+    "project_id": "50005005",
+    "amount": 3758.17,
+    "reward_id": "reward_13",
+    "pledge_date": "2025-08-12 02:08:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000039",
+    "user_id": "user_0010",
+    "project_id": "70007007",
+    "amount": 672.02,
+    "reward_id": null,
+    "pledge_date": "2025-08-09 20:12:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000040",
+    "user_id": "user_0005",
+    "project_id": "50005005",
+    "amount": 423.76,
+    "reward_id": null,
+    "pledge_date": "2025-09-18 01:16:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000041",
+    "user_id": "user_0011",
+    "project_id": "30003003",
+    "amount": 1347.5,
+    "reward_id": null,
+    "pledge_date": "2025-08-28 00:09:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000042",
+    "user_id": "user_0011",
+    "project_id": "80008008",
+    "amount": 3504.73,
+    "reward_id": null,
+    "pledge_date": "2025-08-19 08:26:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000043",
+    "user_id": "user_0010",
+    "project_id": "80008008",
+    "amount": 21247.81,
+    "reward_id": "reward_23",
+    "pledge_date": "2025-08-19 07:11:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000044",
+    "user_id": "user_0011",
+    "project_id": "30003003",
+    "amount": 4917.54,
+    "reward_id": null,
+    "pledge_date": "2025-08-07 18:31:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000045",
+    "user_id": "user_0011",
+    "project_id": "80008008",
+    "amount": 3145.24,
+    "reward_id": null,
+    "pledge_date": "2025-08-26 03:09:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000046",
+    "user_id": "user_0012",
+    "project_id": "80008008",
+    "amount": 1498.55,
+    "reward_id": null,
+    "pledge_date": "2025-08-14 10:44:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000047",
+    "user_id": "user_0001",
+    "project_id": "80008008",
+    "amount": 9329.91,
+    "reward_id": "reward_22",
+    "pledge_date": "2025-08-14 23:33:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000048",
+    "user_id": "user_0001",
+    "project_id": "50005005",
+    "amount": 1866.1,
+    "reward_id": null,
+    "pledge_date": "2025-09-11 04:02:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000049",
+    "user_id": "user_0009",
+    "project_id": "30003003",
+    "amount": 608.53,
+    "reward_id": null,
+    "pledge_date": "2025-08-21 09:06:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000050",
+    "user_id": "user_0010",
+    "project_id": "40004004",
+    "amount": 3213.3,
+    "reward_id": null,
+    "pledge_date": "2025-08-23 07:27:31",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000051",
+    "user_id": "user_0001",
+    "project_id": "40004004",
+    "amount": 4000.0,
+    "reward_id": "reward_10",
+    "pledge_date": "2025-09-20 10:40:51",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000052",
+    "user_id": "user_0001",
+    "project_id": "60006006",
+    "amount": 3000.0,
+    "reward_id": "reward_17",
+    "pledge_date": "2025-09-20 10:44:05",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000053",
+    "user_id": "user_0001",
+    "project_id": "60006006",
+    "amount": 5000.0,
+    "reward_id": null,
+    "pledge_date": "2025-09-20 10:44:34",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000054",
+    "user_id": "user_0001",
+    "project_id": "60006006",
+    "amount": 50000.0,
+    "reward_id": null,
+    "pledge_date": "2025-09-20 10:44:37",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000055",
+    "user_id": "user_0001",
+    "project_id": "80008008",
+    "amount": 6000.0,
+    "reward_id": null,
+    "pledge_date": "2025-09-20 11:13:20",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000056",
+    "user_id": "user_0001",
+    "project_id": "80008008",
+    "amount": 1.0,
+    "reward_id": null,
+    "pledge_date": "2025-09-20 11:13:35",
+    "status": "successful"
+  },
+  {
+    "id": "pledge_000057",
+    "user_id": "user_0001",
+    "project_id": "30003003",
+    "amount": 10.0,
+    "reward_id": null,
+    "pledge_date": "2025-09-20 12:19:37",
+    "status": "successful"
+  }
+]

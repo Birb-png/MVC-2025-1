@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tech",
+    "name": "Technology",
+    "description": "Innovative technology projects and gadgets",
+    "created_date": "2024-01-01 10:00:00"
+  },
+  {
+    "id": "art",
+    "name": "Arts & Crafts",
+    "description": "Creative arts, crafts, and design projects",
+    "created_date": "2024-01-01 10:00:00"
+  },
+  {
+    "id": "game",
+    "name": "Games",
+    "description": "Board games, video games, and gaming accessories",
+    "created_date": "2024-01-01 10:00:00"
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Educational tools, courses, and learning platforms",
+    "created_date": "2024-01-01 10:00:00"
+  },
+  {
+    "id": "health",
+    "name": "Health & Fitness",
+    "description": "Health, fitness, and wellness related projects",
+    "created_date": "2024-01-01 10:00:00"
+  }
+]
