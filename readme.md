@@ -120,7 +120,7 @@ pip install -r requirements.txt
 - Verify JSON files are valid
 - Restart the application
 
-## 📊 API Endpoints
+## API Endpoints
 
 ### Authentication
 - `GET /login` - Login page
